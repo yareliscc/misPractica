@@ -1,0 +1,9 @@
+com\vuelo\aerolinea\entity\Categoria.class
+com\vuelo\aerolinea\entity\Vuelo.class
+com\vuelo\aerolinea\entity\Tarifa.class
+com\vuelo\aerolinea\service\VueloImpl.class
+com\vuelo\aerolinea\service\VueloService.class
+com\vuelo\aerolinea\repository\VueloRepository.class
+com\vuelo\aerolinea\repository\TarifaRepository.class
+com\vuelo\aerolinea\controller\VueloController.class
+com\vuelo\aerolinea\AerolineaApplication.class
