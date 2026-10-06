@@ -1,0 +1,31 @@
+{
+  "info": {
+    "_postman_id": "7cea3cb2-ea75-4a1f-a98b-77eafc3e8623",
+    "name": "API_VUELO",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "9690306"
+  },
+  "item": [
+    {
+      "name": "consulta codigo_vuelo",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8081/api/vuelos/6",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8081",
+          "path": [
+            "api",
+            "vuelos",
+            "6"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
